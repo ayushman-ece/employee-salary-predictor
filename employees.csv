@@ -1,0 +1,32 @@
+
+employee_id,age,experience_years,education,job_role,salary
+1,23,1,Bachelor,Developer,350000
+2,25,2,Bachelor,Analyst,420000
+3,28,4,Master,Developer,650000
+4,30,6,Master,Data Scientist,850000
+5,32,8,Master,Manager,950000
+6,24,2,Bachelor,Tester,380000
+7,27,3,Bachelor,Developer,500000
+8,35,10,Master,Data Scientist,1200000
+9,38,12,Master,Manager,1400000
+10,29,5,Bachelor,Analyst,600000
+11,22,0,Bachelor,Tester,280000
+12,26,3,Master,Developer,550000
+13,31,7,Master,Data Scientist,900000
+14,34,9,Master,Manager,1100000
+15,28,4,Bachelor,Tester,450000
+16,40,15,Master,Manager,1600000
+17,33,8,Bachelor,Developer,800000
+18,36,11,Master,Data Scientist,1300000
+19,25,1,Bachelor,Analyst,390000
+20,29,5,Master,Developer,700000
+21,24,1,Bachelor,Tester,320000
+22,37,13,Master,Manager,1500000
+23,30,6,Master,Data Scientist,950000
+24,27,4,Bachelor,Analyst,520000
+25,32,7,Master,Developer,850000
+26,39,14,Master,Data Scientist,1450000
+27,26,2,Bachelor,Tester,400000
+28,35,10,Master,Manager,1250000
+29,31,6,Bachelor,Developer,750000
+30,28,3,Master,Analyst,580000
